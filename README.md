@@ -10,12 +10,6 @@ Use this package from your server. Your CtechPay service token must never be exp
 npm install @ctechpay/ctechpay-js
 ```
 
-For local development before publishing:
-
-```bash
-npm install ./sdks/js
-```
-
 ## Hosted Payment Page
 
 ```js
